@@ -1,4 +1,4 @@
-```markdown
+
 # Himanshu
 
 **Location:** Charkhi Dadri, Haryana  
@@ -91,10 +91,6 @@
 2. Python Essentials - Vityarthi  
 3. The Bits and Bytes of Computer Networking - Google (2023)  
 4. Gen AI and Prompt Engineering - VIT Bhopal
-```
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/51126410/4b61f16f-1a26-4772-a332-be21deebc5a9/Himanshu_resume-2.pdf
 
----
-Answer from Perplexity: pplx.ai/share
+
